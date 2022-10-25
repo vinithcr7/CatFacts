@@ -1,0 +1,7 @@
+.display-wrapper {
+  padding: 5px;
+}
+
+.display-wrapper .list-title {
+  color: blue;
+}
